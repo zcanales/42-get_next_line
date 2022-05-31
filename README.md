@@ -1,4 +1,4 @@
-# Get Next Line
+# get next line
 The aim of this project is that to create a function that reads one line from a file descriptor each time it is called it until it reaches the End of File (EOF) using static variables.
 
 # Compiling
